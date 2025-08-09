@@ -2,6 +2,8 @@
 
 This project was designed to work with [@benjifs/micropub](https://github.com/benjifs/micropub) but it should be usable with other projects that need to interact with the [GitHub Contents API](https://docs.github.com/en/rest/repos/contents).
 
+There is also a compatible version to work with a GitLab repository: [@benjifs/gitlab-store](https://github.com/benjifs/gitlab-store).
+
 ## Install
 
 `npm install @benjifs/github-store`
